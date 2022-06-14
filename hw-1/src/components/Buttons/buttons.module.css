@@ -1,0 +1,30 @@
+.buttons {
+	display: flex;
+	justify-content: space-between;
+	margin: 35px 0;
+}
+
+.button {
+	width: 40%;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	color: #000;
+	background: #fff;
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	cursor: pointer;
+	transition: .3s;
+}
+
+.button:hover {
+	background: #c70101;
+	color: white;
+	transform: scale(1.05);
+	filter: contrast(175%) drop-shadow(5px 5px 8px #fff);
+}
+
+.save:hover {
+	background: #1eff00;
+}
