@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Andersen-React-Intensive/static/css/main.70be6ea4.css",
+    "main.js": "/Andersen-React-Intensive/static/js/main.22272ff4.js",
+    "index.html": "/Andersen-React-Intensive/index.html",
+    "main.70be6ea4.css.map": "/Andersen-React-Intensive/static/css/main.70be6ea4.css.map",
+    "main.22272ff4.js.map": "/Andersen-React-Intensive/static/js/main.22272ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70be6ea4.css",
+    "static/js/main.22272ff4.js"
+  ]
+}
