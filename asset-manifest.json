@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Andersen-React-Intensive/static/css/main.87925457.css",
-    "main.js": "/Andersen-React-Intensive/static/js/main.9dded09e.js",
+    "main.js": "/Andersen-React-Intensive/static/js/main.31ee06dd.js",
     "index.html": "/Andersen-React-Intensive/index.html",
     "main.87925457.css.map": "/Andersen-React-Intensive/static/css/main.87925457.css.map",
-    "main.9dded09e.js.map": "/Andersen-React-Intensive/static/js/main.9dded09e.js.map"
+    "main.31ee06dd.js.map": "/Andersen-React-Intensive/static/js/main.31ee06dd.js.map"
   },
   "entrypoints": [
     "static/css/main.87925457.css",
-    "static/js/main.9dded09e.js"
+    "static/js/main.31ee06dd.js"
   ]
 }
