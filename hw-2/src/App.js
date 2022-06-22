@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import Form from "./components/Form/Form";
 import ShowProfile from "./components/ShowProfile/ShowProfile";
 
