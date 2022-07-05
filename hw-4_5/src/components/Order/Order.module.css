@@ -1,0 +1,41 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-right: 20px;
+  text-align: left;
+  font-size: 15px;
+}
+
+.amount {
+  color: #9c9b9b;
+}
+
+.price {
+  margin: 5px 0;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.img:hover {
+  cursor: pointer;
+}
+
+.exit {
+  margin-left: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.exit:hover {
+  color: #ff7f50; 
+}

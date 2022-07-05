@@ -1,0 +1,22 @@
+.container {
+  margin: 50px;
+  text-align: center;
+}
+
+.description {
+  font-size: 35px;
+}
+
+.back {
+  width: 250px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #000;
+  background: #fff;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 20px;
+}

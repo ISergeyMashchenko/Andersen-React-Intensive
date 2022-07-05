@@ -1,0 +1,32 @@
+.log_info {
+  font-size: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.info {
+  margin-left: 50px;
+}
+
+.title {
+  font-size: 35px;
+}
+
+.description {
+  font-size: 18px;
+}
+
+.price {
+  font-size: 30px;
+  color: #817f7f;
+  margin-bottom: 20px;
+}
+
+.page {
+  padding: 40px;
+}

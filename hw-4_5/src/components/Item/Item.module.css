@@ -1,0 +1,39 @@
+.log_info {
+  margin: 0 auto;
+  font-size: 15px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  max-height: 600px;
+  background: #ffffff;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: 20px 0;
+  padding: 20px 0;
+}
+
+.item:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+.title {
+  font-size: 20px;
+  margin: 10px 0;
+  padding: 0 8px;
+}
+
+.image {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.price {
+  color: rgb(158, 92, 92);
+  margin: 10px 0;
+}
